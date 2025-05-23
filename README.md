@@ -1,0 +1,3 @@
+This Is A Snake Water Gun Game Designed By Using Python Lang
+Its A Game Between Computer And User 
+Where The User Is Eligible To Make Choice Of His Own Whether He Want to Choose Snake,Water or Gun as Input and Second The Computer Bot Will Take Input On Random Basis... 
